@@ -3,7 +3,7 @@ Script `install_ap.sh` can help you to make Wi-Fi router with your Raspberry Pi.
 This script is tested on such external Wi-Fi chipsets as
 * Atheros AR9271
 * Realtek RTL8188EUS
-### How to run
+### How to run this script
 It's easy, just execute the script
 ```bash
 ./install_ap.sh
