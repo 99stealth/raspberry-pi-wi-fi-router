@@ -1,4 +1,4 @@
-# Make Wi-Fi router with your Raspberry PI
+#Make Wi-Fi router with your Raspberry PI
 Script `install_ap.sh` can help you to make Wi-Fi router with your Raspberry Pi.
 This script is tested on such external Wi-Fi chipsets as
 * Atheros AR9271
@@ -13,7 +13,7 @@ If your wireless chipset is not in list above then you will see next message
 ```
 [-] Your driver is not suported yet. Exit
 ```
-If everything is in order then you will see this result
+If everything is in order then you will see next result
 ```
 [+] Installation is launched. It will take several minutes
 [+] Update repositories data
